@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793240442801",
+    "project_id": "journey2go-d5a40",
+    "storage_bucket": "journey2go-d5a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793240442801:android:ecb9a46a9b383bedb3cf90",
+        "android_client_info": {
+          "package_name": "com.example.journey2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793240442801-vurrd9grp412j79cdpb0u56409nkjvu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYxjGhRPrxKjN3Bkg9rV4HRU85wBKVU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793240442801-vurrd9grp412j79cdpb0u56409nkjvu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
